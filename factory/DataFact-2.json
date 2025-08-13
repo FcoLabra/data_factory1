@@ -1,0 +1,9 @@
+{
+	"name": "DataFact-2",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "84c42b1a-9c3b-4d21-bf33-b59e2c4d9f87",
+		"tenantId": "f4406395-5c8a-4898-b3e6-c633ab53d4de"
+	}
+}
